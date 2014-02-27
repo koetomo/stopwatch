@@ -1,0 +1,12 @@
+.space{
+	margin-bottom:15px;
+}
+
+.veryTop{
+	margin-top:15px;
+}
+
+body{
+	background-image: url('food/food.png');
+	background-repeat: repeat;
+}
