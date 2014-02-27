@@ -22,8 +22,8 @@ $(document).ready(function(){
 		timeDown = time;
 		updateTimeDown();
 		clearInterval(cDown);
-		timeUp = time;
-		updateTimeDown();
+		timeUp = 0;
+		updateTimeUp();
 		clearInterval(cUp);
 		console.log(document.getElementById('countTarget').value);
 	});
